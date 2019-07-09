@@ -1,0 +1,14 @@
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.deps.json
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.json
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.pdb
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\astavrev\source\repos\SchulungFuerMich\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.pdb
